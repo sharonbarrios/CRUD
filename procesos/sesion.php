@@ -1,4 +1,6 @@
 <?php
+
+//Variables de sesión
 class sesion {
   function __construct() {
      session_start ();
